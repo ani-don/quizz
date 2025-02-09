@@ -48,15 +48,9 @@ To deploy the application, you can use platforms like Vercel
 
 ## Screenshots & Walkthrough
 ### Screenshots
-![Start Screen](../Screenshot%202025-02-09%20172324.png)
-![Quiz In Progress](../Screenshot%202025-02-09%20172348.png)
-![Quiz Completed](../Screenshot%202025-02-09%20172412.png)
+![Start Screen](../quizapp/src/assets/Screenshot%202025-02-09%20172324.png)
+![Quiz In Progress](../quizapp/src/assets/Screenshot%202025-02-09%20172348.png)
+![Quiz Completed](../quizapp/src/assets/Screenshot%202025-02-09%20172412.png)
 
 ### Video Walkthrough
-[Click here to view the walkthrough](../quiz.mp4)
-
-## Contribution
-Feel free to fork this repository and make enhancements. Contributions are welcome!
-
-## License
-This project is licensed under the MIT License.
+[Click here to view the walkthrough](../quizapp/src/assets/quiz.mp4)
